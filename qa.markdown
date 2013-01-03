@@ -1,4 +1,5 @@
 ---
+layout: simple
 title: ROSEdu legal Q&A
 ---
 
