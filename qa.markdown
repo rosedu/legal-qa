@@ -14,7 +14,7 @@ title: ROSEdu legal Q&A
 1. Cu ce diferă (sau există vreo diferență, sau există) o profesie
    liberală de PFA?
 
-   **R:** TODO
+   **R:** **TODO**
 
 
 1. Cum se plătesc banii din partea asociației? Cum livrează asociația
@@ -54,7 +54,7 @@ title: ROSEdu legal Q&A
     profit; detalii aici:
     http://contabilul.manager.ro/a/658/22-organizatiile-non-profit.html
     Organizațiile non-profit sunt scutite de plata TVA, până la un
-    anumit plafon: TODO
+    anumit plafon: **TODO**
 
 
 1. Se face factură pe contractul de sponsorizare?
@@ -116,7 +116,7 @@ title: ROSEdu legal Q&A
 1. Poate transfera în contul unei persoane fizice pentru dispoziții de
    încasare?
 
-    **R:** TODO
+    **R:** **TODO**
 
 
 1. 2% se plătește acum (2012) și de persoane din domeniul IT?
@@ -131,7 +131,7 @@ title: ROSEdu legal Q&A
 1. La ce se referă dispoziție de plată și la ce se referă dispoziție de
    încasare? În care caz dă asociația și în care caz primește asociația?
 
-    **R:** TODO
+    **R:** **TODO**
 
 
 1. Toți cenzorii trebuie să aibă studii superioare, sau doar expertul
@@ -144,7 +144,7 @@ title: ROSEdu legal Q&A
 
 1. Cu ce diferă “Contul casei” de “Sold ziua precedentă”?
 
-    **R:** TODO
+    **R:** **TODO**
 
 
 1. Putem deconta facturi în EURO dacă asociația are doar cont în RON?
@@ -226,7 +226,7 @@ title: ROSEdu legal Q&A
 1. Cine face calculele pentru ce taxe trebuie plătite pentru PFA?
    Contabilul?
 
-    **R:** TODO
+    **R:** **TODO**
 
 
 1. Cum sunt plătite taxele de o asociație? Ce formulare trebuie
@@ -293,7 +293,7 @@ title: ROSEdu legal Q&A
 1. Când este nevoie de factură și când putem folosi doar bon ștampilat
    pentru a demonstra o cheltuială?
 
-    **R:** TODO
+    **R:** **TODO**
 
 
 1. Cum facem un contract de sponsorizare? (fie când primim, fie când
@@ -318,7 +318,7 @@ title: ROSEdu legal Q&A
     EURO).
 
     Cred că mai e un plafon pentru tranzacții de natură comercială
-    (TODO).
+    (**TODO**).
 
 
 1. Ce sunt cenzorii? Câți? Trebuie să aibă studii superioare?
@@ -376,7 +376,7 @@ title: ROSEdu legal Q&A
 1. Contractele se numerotează consecutiv indiferent de tipul lor? De
    bursă, de sponsorizare etc.
 
-    **R:** TODO
+    **R:** **TODO**
 
 1. Pentru realizarea bilanțurilor, extrasele de cont trebuie semnate de
    bancă? Noi le obținem online și pot fi printate de acolo.
@@ -410,7 +410,7 @@ title: ROSEdu legal Q&A
 1. Numerele de contracte sunt pe an? Sau continuu?
 
     **R:** Ține de politica Asociației. Nomenclatorul indicat la
-    întrebarea 43 e recomandat să fie pe an (TODO)
+    întrebarea 43 e recomandat să fie pe an (**TODO**)
 
 
 1. Care este numărul facturii? Unele facturi au și serie și număr și
@@ -426,7 +426,7 @@ title: ROSEdu legal Q&A
 
 1. În registrul de casă se trece și factura și bonul?
 
-    **R:** Cu cât mai multe informații cu atât mai bine :-P (TODO)
+    **R:** Cu cât mai multe informații cu atât mai bine :-P (**TODO**)
 
 
 1. Este nevoie de ordine de deplasare pentru decontarea biletelor de
@@ -434,7 +434,7 @@ title: ROSEdu legal Q&A
    pentru decont? Există un formular standard pentru un ordin de
    deplasare sau e suficient un proces verbal?
 
-    **R:** TODO
+    **R:** **TODO**
 
 
 1. Trebuie să existe cronologie la număr/dată? Poate un contract
@@ -517,4 +517,4 @@ title: ROSEdu legal Q&A
    activități) denumirile de non-profit, fără scop lucrativ, fără scop
    patrimonial?
 
-    **R:** TODO
+    **R:** **TODO**
