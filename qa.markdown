@@ -52,7 +52,7 @@ title: ROSEdu legal Q&A
     venit pentru persoană juridică; există doar impozit pe profit.
     Organizațiilor non-profit pot fi scutite de la plata impozitului pe
     profit; detalii aici:
-    http://contabilul.manager.ro/a/658/22-organizatiile-non-profit.html
+    <http://contabilul.manager.ro/a/658/22-organizatiile-non-profit.html>
     Organizațiile non-profit sunt scutite de plata TVA, până la un
     anumit plafon: **TODO**
 
@@ -85,13 +85,13 @@ title: ROSEdu legal Q&A
    lege, alte resurse online.
 
     **R:** Am creat această pagină:
-    https://docs.google.com/a/rosedu.org/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit
+    <https://docs.google.com/a/rosedu.org/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit>
 
 
 1. Care este procedura prin care un statut poate fi schimbat?
 
     **R:** Vezi informațiile de aici:
-    http://www.infoong.ro/ghid-infiintare-ong (ultima secțiune)
+    <http://www.infoong.ro/ghid-infiintare-ong> (ultima secțiune)
 
     Cel mai ușor este să contactezi un avocat și să discuți cu el/ea
     despre asta. Noi am discutat cu *\[personal details removed]*.
@@ -121,7 +121,7 @@ title: ROSEdu legal Q&A
 
 1. 2% se plătește acum (2012) și de persoane din domeniul IT?
 
-    **R:** Nu. Direcționarea 2% (http://doilasuta.ro/continut/) se
+    **R:** Nu. Direcționarea 2% (<http://doilasuta.ro/continut/>) se
     aplică impozitului pe venit, prin intermediul formularului 230.
     Întrucât persoanele din domeniul IT sunt scutite de impozitul pe
     venit, nu vor oferi nici un ban. Fiecare poate completa formularul
@@ -196,7 +196,7 @@ title: ROSEdu legal Q&A
 1. Cu ce diferă o asociație de o fundație?
 
     **R:** Definițiile sunt precizate în OUG 26/2000 și legile următoare
-    (http://www.stiriong.ro/documente/365.doc). Fundația nu are Adunarea
+    (<http://www.stiriong.ro/documente/365.doc>). Fundația nu are Adunarea
     Generală pe post de organ de conducere. Doar Consiliul Director,
     format de membri desemnați de fondator, sau format din fondatori,
     are drept de conducere. O asociație este mai democratică, fiecare
@@ -256,7 +256,7 @@ title: ROSEdu legal Q&A
 
     **R:** Nu. Diferența de bani de la sfârșitul anului este considerată
     profit și este impozitată conform legii
-    (http://contabilul.manager.ro/a/658/22-organizatiile-non-profit.html).
+    (<http://contabilul.manager.ro/a/658/22-organizatiile-non-profit.html>).
 
 
 1. Se aplică noțiunea de an fiscal și pentru o asociație? Sau e vorba
@@ -301,7 +301,7 @@ title: ROSEdu legal Q&A
    deja făcut)
 
     **R:** În cadrul ROSEdu, avem modele de contracte de sponsorizare
-    (https://drive.google.com/a/rosedu.org/#folders/0Bx_bxR-luXRzV3FzS3duSnRTZENKSDNWdWpzdjFXZw).
+    (<https://drive.google.com/a/rosedu.org/#folders/0Bx_bxR-luXRzV3FzS3duSnRTZENKSDNWdWpzdjFXZw>).
     Nu se plătesc taxe de sponsorizare. Semnează cine se stabilește în
     statut. De regulă, un contract de sponsorizare trebuie să aibă niște
     obiective bine precizate și activități sponsorizate. De asemenea, e
@@ -350,7 +350,7 @@ title: ROSEdu legal Q&A
 
     **R:** În cadrul ROSEdu, am cumpărat (50 RON), o aplicație MS Excel
     pentru menținerea registrului de casă. Poate fi cumpărată de aici:
-    http://excelavansat.ro/index.php?option=com_content&view=article&id=48&Itemid=41
+    <http://excelavansat.ro/index.php?option=com_content&view=article&id=48&Itemid=41>
 
 
 1. Are rost să ne punem problema transformării în Fundație? Care sunt
