@@ -3,10 +3,22 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="http://rosedu.org/resources/css/style.css">
   </head>
 
   <body>
-    {{ content }}
+
+    <div id="wrapper">
+
+      <div id="header">
+        <a href="/" id="logo-header"></a>
+      </div>
+
+      <h1>{{ page.title }}</h1>
+
+      {{ content }}
+
+    </div>
   </body>
 
 </html>
