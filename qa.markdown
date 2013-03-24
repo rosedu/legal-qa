@@ -144,10 +144,10 @@ title: ROSEdu legal Q&A
    **R:** Formatul dispoziției de plată sau al dispoziției de încasare
    este același, diferă doar titlul. În cazul dispoziției de încasare,
    asociația primește bani, în cazul dispoziției de plată, asociația
-   primește bani. Pentru dispoziții se va păstra un centralizator de
-   dispoziții în care se vor preciza numărul dispoziției, data, persoana
-   de la care s-a încasat sau care a fost plătită, explicații și alte
-   elemente considerate utile.
+   dă bani. Pentru dispoziții se va păstra un centralizator de
+   dispoziții în care se vor preciza numărul dispoziției, data, persoana de
+   la care s-a încasat sau care a fost plătită, explicații și alte elemente
+   considerate utile.
 
 
 1. Toți cenzorii trebuie să aibă studii superioare, sau doar expertul
