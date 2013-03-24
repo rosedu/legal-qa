@@ -579,3 +579,25 @@ title: ROSEdu legal Q&A
    persoana încredințată să realizeze toate operațiile firmei, în
    conformitate cu obiectul de activitate al acesteia. Administratorul
    este precizat în actul constitutiv al firmei.
+
+
+1. Cu ce diferă un bon fiscal de o chitanță fiscală și de o factură
+   fiscală?
+
+   **R:** Bonul fiscal este emis cu ajutorul unei case de marcat (aparat
+   de marcat electronic). Bonul este emis pentru comerțul cu amănuntul
+   (*en detail*) către populație. Este emis de operatorii comerciali
+   care vând produse către populație (vezi Carrefour).
+
+   Chitanța fiscală se emite, la fel ca bonul fiscal, pentru a dovedi
+   primirea unei sume de bani. Formal, chitanța servește ca document
+   justificativ pentru depunerea unei sume în numerar la casieria
+   unității.
+
+   Factura se emite la solicitarea celui care a achiziționat bunul sau
+   serviciul. De regulă se emite pentru tranzacții cu entitățile
+   comerciale pentru decontarea plății (adică se poată scoate bani din
+   firmă/asociație). Tranzacțiile în valoare de până la 100 RON pot fi
+   decontate doar pe baza bonului/chitanței; nu este nevoie de factură.
+   Factura certifică o vânzare/cumpărare de mărfuri sau prestarea unui
+   serviciu.
