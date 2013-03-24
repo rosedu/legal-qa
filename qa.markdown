@@ -14,7 +14,17 @@ title: ROSEdu legal Q&A
 1. Cu ce diferă (sau există vreo diferență, sau există) o profesie
    liberală de PFA?
 
-   **R:** **TODO**
+   **R:** Cele două noțiuni se referă la lucruri diferite. Profesie
+   liberală se referă la ocupația persoanei respective, în vreme ce
+   PFA (Persoană Fizică Autorizată) se referă una din formele de
+   organizare a comercianțilot persoane fizice. PFA este o formă de
+   organizare, așa cum este o firmă sau o asociație, și este
+   reglementată de [OUG nr.
+44/2008](http://static.anaf.ro/static/10/Anaf/legislatie/Ordonante/OUG_44_2008.htm).
+   Profesiile liberale sunt categorii de profesii desfășurate în mod
+   independent, precum profesiile medicale, de avocat, notar, expert
+   contabil, arhitect etc.; se precizează în [Art. 15 din OG
+   7/2001](http://www.clr.ro/rep_htm/OG7_2001.htm).
 
 
 1. Cum se plătesc banii din partea asociației? Cum livrează asociația
