@@ -561,3 +561,12 @@ title: ROSEdu legal Q&A
    același lucru. Denumirile sunt diferite funcție de locul în care
    sunt precizate (Legea asociațiilor și fundațiilor, Codul fiscal
    etc.)
+
+
+1. Cum se aplică semnătura și ștampila? Ce înseamnă "semnătură în clar"?
+
+   **R:** Expresia "semnătură în clar" este o expresie avocățească care
+   se referă la semnătură (probabil să fie lizibilă). Ștampila se aplică
+   peste semnătură; aceasta pentru a nu putea fi scanată. O ștampilă
+   pusă lângă semnătură, fără să "muște" din semnătură sau alte elemente
+   de pe hârtie, ar putea fi scanată și reprodusă.
