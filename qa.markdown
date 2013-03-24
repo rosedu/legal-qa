@@ -570,3 +570,12 @@ title: ROSEdu legal Q&A
    peste semnătură; aceasta pentru a nu putea fi scanată. O ștampilă
    pusă lângă semnătură, fără să "muște" din semnătură sau alte elemente
    de pe hârtie, ar putea fi scanată și reprodusă.
+
+
+1. Ce înseamnă noțiunea de "administrator"? Asociațiile au
+   rolul de "administrator"?
+
+   Administratorul se referă doar la firme (societăți comerciale). Este
+   persoana încredințată să realizeze toate operațiile firmei, în
+   conformitate cu obiectul de activitate al acesteia. Administratorul
+   este precizat în actul constitutiv al firmei.
