@@ -575,10 +575,10 @@ title: ROSEdu legal Q&A
 1. Ce înseamnă noțiunea de "administrator"? Asociațiile au
    rolul de "administrator"?
 
-   Administratorul se referă doar la firme (societăți comerciale). Este
-   persoana încredințată să realizeze toate operațiile firmei, în
-   conformitate cu obiectul de activitate al acesteia. Administratorul
-   este precizat în actul constitutiv al firmei.
+   **R:** Administratorul se referă doar la firme (societăți
+   comerciale). Este persoana încredințată să realizeze toate operațiile
+   firmei, în conformitate cu obiectul de activitate al acesteia.
+   Administratorul este precizat în actul constitutiv al firmei.
 
 
 1. Cu ce diferă un bon fiscal de o chitanță fiscală și de o factură
