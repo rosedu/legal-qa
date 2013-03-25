@@ -14,7 +14,17 @@ title: ROSEdu legal Q&A
 1. Cu ce diferă (sau există vreo diferență, sau există) o profesie
    liberală de PFA?
 
-   **R:** **TODO**
+   **R:** Cele două noțiuni se referă la lucruri diferite. Profesie
+   liberală se referă la ocupația persoanei respective, în vreme ce
+   PFA (Persoană Fizică Autorizată) se referă una din formele de
+   organizare a comercianțilot persoane fizice. PFA este o formă de
+   organizare, așa cum este o firmă sau o asociație, și este
+   reglementată de [OUG nr.
+44/2008](http://static.anaf.ro/static/10/Anaf/legislatie/Ordonante/OUG_44_2008.htm).
+   Profesiile liberale sunt categorii de profesii desfășurate în mod
+   independent, precum profesiile medicale, de avocat, notar, expert
+   contabil, arhitect etc.; se precizează în [Art. 15 din OG
+   7/2001](http://www.clr.ro/rep_htm/OG7_2001.htm).
 
 
 1. Cum se plătesc banii din partea asociației? Cum livrează asociația
@@ -134,10 +144,10 @@ title: ROSEdu legal Q&A
    **R:** Formatul dispoziției de plată sau al dispoziției de încasare
    este același, diferă doar titlul. În cazul dispoziției de încasare,
    asociația primește bani, în cazul dispoziției de plată, asociația
-   primește bani. Pentru dispoziții se va păstra un centralizator de
-   dispoziții în care se vor preciza numărul dispoziției, data, persoana
-   de la care s-a încasat sau care a fost plătită, explicații și alte
-   elemente considerate utile.
+   dă bani. Pentru dispoziții se va păstra un centralizator de
+   dispoziții în care se vor preciza numărul dispoziției, data, persoana de
+   la care s-a încasat sau care a fost plătită, explicații și alte elemente
+   considerate utile.
 
 
 1. Toți cenzorii trebuie să aibă studii superioare, sau doar expertul
@@ -551,3 +561,43 @@ title: ROSEdu legal Q&A
    același lucru. Denumirile sunt diferite funcție de locul în care
    sunt precizate (Legea asociațiilor și fundațiilor, Codul fiscal
    etc.)
+
+
+1. Cum se aplică semnătura și ștampila? Ce înseamnă "semnătură în clar"?
+
+   **R:** Expresia "semnătură în clar" este o expresie avocățească care
+   se referă la semnătură (probabil să fie lizibilă). Ștampila se aplică
+   peste semnătură; aceasta pentru a nu putea fi scanată. O ștampilă
+   pusă lângă semnătură, fără să "muște" din semnătură sau alte elemente
+   de pe hârtie, ar putea fi scanată și reprodusă.
+
+
+1. Ce înseamnă noțiunea de "administrator"? Asociațiile au
+   rolul de "administrator"?
+
+   **R:** Administratorul se referă doar la firme (societăți
+   comerciale). Este persoana încredințată să realizeze toate operațiile
+   firmei, în conformitate cu obiectul de activitate al acesteia.
+   Administratorul este precizat în actul constitutiv al firmei.
+
+
+1. Cu ce diferă un bon fiscal de o chitanță fiscală și de o factură
+   fiscală?
+
+   **R:** Bonul fiscal este emis cu ajutorul unei case de marcat (aparat
+   de marcat electronic). Bonul este emis pentru comerțul cu amănuntul
+   (*en detail*) către populație. Este emis de operatorii comerciali
+   care vând produse către populație (vezi Carrefour).
+
+   Chitanța fiscală se emite, la fel ca bonul fiscal, pentru a dovedi
+   primirea unei sume de bani. Formal, chitanța servește ca document
+   justificativ pentru depunerea unei sume în numerar la casieria
+   unității.
+
+   Factura se emite la solicitarea celui care a achiziționat bunul sau
+   serviciul. De regulă se emite pentru tranzacții cu entitățile
+   comerciale pentru decontarea plății (adică se poată scoate bani din
+   firmă/asociație). Tranzacțiile în valoare de până la 100 RON pot fi
+   decontate doar pe baza bonului/chitanței; nu este nevoie de factură.
+   Factura certifică o vânzare/cumpărare de mărfuri sau prestarea unui
+   serviciu.
