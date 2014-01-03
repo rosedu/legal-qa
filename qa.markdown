@@ -613,5 +613,4 @@ title: ROSEdu legal Q&A
    bancar. În acel caz, dovada plății este chiar transferul în contul
    bancar.
 
-   Detalii în documentul cu link-uri financiar/juridic:
-<https://docs.google.com/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit?usp=sharing>
+   Detalii în [documentul cu link-uri financiar/juridic](https://docs.google.com/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit?usp=sharing).
