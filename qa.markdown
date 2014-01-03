@@ -94,8 +94,7 @@ title: ROSEdu legal Q&A
 1. Unde se găsesc precizări legale/financiare? Site-uri, articole de
    lege, alte resurse online.
 
-   **R:** Am creat această pagină:
-   <https://docs.google.com/a/rosedu.org/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit>
+   **R:** Am creat [această pagină](https://docs.google.com/a/rosedu.org/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit).
 
 
 1. Care este procedura prin care un statut poate fi schimbat?
