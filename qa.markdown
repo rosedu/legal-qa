@@ -94,8 +94,7 @@ title: ROSEdu legal Q&A
 1. Unde se găsesc precizări legale/financiare? Site-uri, articole de
    lege, alte resurse online.
 
-   **R:** Am creat această pagină:
-   <https://docs.google.com/a/rosedu.org/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit>
+   **R:** Am creat [această pagină](https://docs.google.com/a/rosedu.org/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit).
 
 
 1. Care este procedura prin care un statut poate fi schimbat?
@@ -385,7 +384,7 @@ title: ROSEdu legal Q&A
    asupra acțiunilor sale, prin intermediul Consiliului Director numit
    de fondatori; are un mod mai "dictatorial" de coordonare. O
    asociație este mai "democratică" și poate fi "deraiată" dacă sunt
-   suficienți de membri în Adunarea Generală.
+   suficienți membri în Adunarea Generală.
 
 
 1. Se pot emite chitanțe doar în format electronic? Dar registrul de
@@ -601,3 +600,17 @@ title: ROSEdu legal Q&A
    decontate doar pe baza bonului/chitanței; nu este nevoie de factură.
    Factura certifică o vânzare/cumpărare de mărfuri sau prestarea unui
    serviciu.
+
+   Factura se emite pentru a notifica faptul că cel care recepționează
+   factura are de plătit o sumă de bani. Pe baza facturii cel care
+   recepționează poate solicita decont din partea unității, poate
+   solicita banii necesari pentru transfer sau poate realiza un transfer
+   bancar.
+
+   Chitanța se emite pentru a dovedi primirea unei sume de bani de
+   către emitent. În momentul primirii unei sume de bani numerar, se
+   emite chitanță. Nu este nevoie de emitere de chitanță pentru transfer
+   bancar. În acel caz, dovada plății este chiar transferul în contul
+   bancar.
+
+   Detalii în [documentul cu link-uri financiar/juridic](https://docs.google.com/document/d/1693Eo8fyIvgpJipO5a0BbEZaGS7Vt7FjAZrR2EBgqoU/edit?usp=sharing).
