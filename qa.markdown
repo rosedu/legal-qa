@@ -384,7 +384,7 @@ title: ROSEdu legal Q&A
    asupra acțiunilor sale, prin intermediul Consiliului Director numit
    de fondatori; are un mod mai "dictatorial" de coordonare. O
    asociație este mai "democratică" și poate fi "deraiată" dacă sunt
-   suficienți de membri în Adunarea Generală.
+   suficienți membri în Adunarea Generală.
 
 
 1. Se pot emite chitanțe doar în format electronic? Dar registrul de
